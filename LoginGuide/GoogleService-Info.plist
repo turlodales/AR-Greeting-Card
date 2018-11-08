@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1033004271098-jkf82h5c570ndfc2nmagerrkrrjlbn8k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1033004271098-jkf82h5c570ndfc2nmagerrkrrjlbn8k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAiYtWfG3DWVv-JnD56Xpbn57WrKDMRRwM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1033004271098</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yaguu.LoginGuide</string>
+	<key>PROJECT_ID</key>
+	<string>arlogin-e90c6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arlogin-e90c6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1033004271098:ios:b4775a76dae208f3</string>
+	<key>DATABASE_URL</key>
+	<string>https://arlogin-e90c6.firebaseio.com</string>
+</dict>
+</plist>
